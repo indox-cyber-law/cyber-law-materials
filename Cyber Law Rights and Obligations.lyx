@@ -1,0 +1,1554 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+% hack better font 
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage[T1]{fontenc}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language bahasa
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #718c00
+\end_index
+\leftmargin 2.5cm
+\topmargin 2.5cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Materi IndonesiaX: 
+\emph on
+Cyber Law - Rights and Obligations
+\emph default
+ 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Diringkas terakhir kali pada 20 Agustus 2015 oleh jibi
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Materi Minggu Pertama
+\end_layout
+
+\begin_layout Section
+Pendahuluan
+\end_layout
+
+\begin_layout Standard
+Selamat pagi Peserta IndonesiaX.
+ Sebelum kita jauh bicara tentang Cyber Law atau ICT Law atau Hukum Telematika
+ maka kita akan mencermati terlebih dahulu tentang evolusi peradaban manusia
+ itu sendiri.
+ Sebagaimana kita ketahui, kita sudah masuk dalam era informasi.
+ Apa yang dimaksud dengan era informasi ini?
+\series bold
+ Era informasi adalah era dimana informasi itu menjadi dasar bisa menjadi
+ power, bisa menjadi nilai keunggulan kompetitif, dia bahkan bisa menjadi
+ aliran darah
+\series default
+.
+ Dasarnya adalah kita bisa mengatakan bahwa era informasi itu adalah era
+ di mana
+\series bold
+ informasi tidak lagi hanya sebagai benda tapi dirasakan sebagaimana layaknya
+ aliran darah dalam tubuh manusia
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Sebelum sampai pada era informasi, sebenarnya kalau kita cermati lagi peradaban
+ manusia setidak-tidaknya terjadi dari atau berevolusi dari beberapa gelombang.
+ Masih ingat kita dengan 
+\series bold
+teori
+\series default
+ 
+\series bold
+Darwin
+\series default
+ tentang bagaimana manusia itu berubah dari bentuk semacam kera kemudian
+ menjadi manusia yang sekarang? Apa sih yang berubah? Bagi penganut Darwin
+ ya tentunya berlakunya hukum rimba.
+ Saya hanya ingin mengajar para peserta sekalian untuk berpikir begini:
+ 
+\series bold
+Hukum itu akan berbanding lurus dengan dinamika peradaban manusianya itu
+ sendiri
+\series default
+.
+ Mari kita cermati.
+ Pada saat manusia didominasi oleh ukuran-ukuran penguasaan yang didasarkan
+ pada 
+\series bold
+otot
+\series default
+ belaka, maka yang berkembang saat itu adalah 
+\series bold
+hukum rimba
+\series default
+.
+ Siapa yang kalah itu harus menerima hukumnya Yang menang yang menjadi penentu
+ hukumnya.
+ Apa power yang paling utama? Ya itu otot itu sendiri.
+ Perang suku, kemudian yang kalah di-dzalimi (tidak ada kata-kata dzalim
+ pada saat itu).
+ Yang terjadi pada saat itu adalah siapa yang menang, siapa yang berkuasa,
+ itulah penentu hukumnya Hukum rimba namanya saat itu.
+ Katakanlah manusia kemudian berkembang lagi, di mana yang kuat cenderung
+ bodoh, yang lemah bakal cenderung pintar.
+ Kenapa? Saat itu 
+\series bold
+manusia yang kalah mulai berpikir untuk lebih menggerakkan intelektualnya,
+ beradaptasi dengan alam, bercocok tanam
+\series default
+, sehingga berkembanglah hukum yang namanya 
+\series bold
+hukum agraria, hukum adat
+\series default
+, di mana manusia yang bergerak berkembang untuk beradaptasi dengan alam
+ kemudian membuka lahan, lalu berkembanglah hukum agraria.
+ Lalu berkembang lagi manusia-manusia tersebut, berkembang menuju ke semua
+ arah, menguasai alam, tinggal di alam A, tinggal di alam E tinggal di wilayah
+ A, tinggal di wilayah B, dan sebagainya.
+ Akibatnya, muncul daerah yang surplus dan daerah yang minus.
+ Ada daerah yang lebih, ada daerah yang kurang.
+ Kemudian timbullah 
+\emph on
+trading
+\emph default
+ itu, di mana manusia yang lingkungannya memiliki lahan yang lebih kaya,
+ di mana manusia yang berikutnya adalah mungkin alamnya kurang bersahabat
+ tetapi intelektualnya menjadi lebih maju sehingga berkembanglah industri.
+ 
+\end_layout
+
+\begin_layout Standard
+Masih ingat 
+\series bold
+revolusi industri
+\series default
+ di Inggris? Revolusi ini mendorong pertumbuhan yang namanya 
+\series bold
+hukum hak kekayaan intelektual
+\series default
+.
+ Waktu hukum agraria masih dominan, yang dikenal terdiri dari benda berupa
+ tanah dan bukan tanah.
+ Lalu kemudian berkembang industri, ada barang, ada lagi hak intelektual,
+ di mana yang berintelektual mengharapkan perlindungan karya-karya intelektualny
+a.
+ Masih ingat Berne Convention, Paris Convention pada tahun 1883-1886? Yang
+ menarik yang terjadi di Indonesia saat itu adalah bencana krakatau.
+ Jadi kita kurang lebih tidak selalu berbeda dengan apa yang terjadi di
+ Eropa tapi kita mempunyai masalah dan dinamika yang berbeda.
+ 
+\end_layout
+
+\begin_layout Standard
+Selanjutnya, berkembang lagi gelombang berikutnya yaitu manusia yang sadar
+ akan informasi.
+ Apa itu informasi? Informasi asal katanya kan information.
+ Semua yang belakangnya ada “
+\emph on
+tion
+\emph default
+” itu kalau dalam bahasa Inggris kata benda.
+ Apakah benda terjadi dengan sendirinya? Tidak.
+ Dia dari proses.
+ Merubah data menjadi informasi.
+ Informasi kemudian diolah menjadi ilmu pengetahuan, jadi 
+\emph on
+knowledge
+\emph default
+.
+ Jadi apa inti dari ilmu pengetahuan? Pengalaman.
+ Pengalaman yang bagaimana? Pengalaman yang diolah dengan kebijakan sehingga
+ menjadi suatu pengetahuan.
+ Lalu berkembang lagi manusia menjadi masuk era di ilmu pengetahuan.
+ Yang menarik, apa yang telah berubah manusia dari saat itu sampai dengan
+ saat ini? 
+\series bold
+Manusia yang semakin berkembang dengan teknologi, berubah dinamikanya karena
+ teknologi atau teknologi berbanding lurus dengan dinamika manusia itu sendiri
+\series default
+.
+ Hal itu akan kita bahas dalam materi berikutnya bagaimana evolusi telematika
+ berubah dengan perilaku manusianya Setidak-tidaknya Anda juga harus mencermati
+ bahwa yang namanya 
+\series bold
+perkembangan peradaban manusia berbanding lurus bukan hanya teknologinya
+ tetapi dia merefleksikan perkembangan sistem hukum nasionalnya
+\series default
+.
+ Mari kita lanjut nanti dalam materi tentang evolusi telematika.
+\end_layout
+
+\begin_layout Section
+Evolusi Telematika
+\end_layout
+
+\begin_layout Standard
+Pemirsa IndonesiaX tadi kita sudah membicarakan soal hukum yang berbanding
+ lurus dengan dinamika peradaban manusia itu sendiri Mengapa? Karena memang
+ sistem hukum yang berkembang merupakan refleksi dari dinamika peradaban
+ manusia itu sendiri Sehingga kalau yang dia ketahui barangnya adalah tanah
+ dan bukan tanah maka yang berlaku adalah hukum agraria.
+ Kalau dia membicarakan hasil intelektualnya maka yang berkembang adalah
+ hak atas kekayaan intelektualnya Hal itu tadi sudah kita bicarakan dalam
+ pembahasan tentang evolusi hukum dan peradaban manusia dari era masyarakat
+ yang menjunjung hukum rimba sampai dengan kepada hukum yang sekarang, hukum
+ terhadap informasi dan komunikasi.
+ Saya mengemukakan istilah ini lebih tepatnya adalah 
+\series bold
+Hukum Telematika
+\series default
+ 
+\series bold
+yaitu konvergensi dari telekomunikasi, media dan informatika
+\series default
+.
+ Mari kita bahas lebih lanjut tentang evolusi telematika itu sendiri yaitu
+ bagaimana dinamika perkembangan teknologi telekomunikasi teknologi media,
+ dan juga teknologi informatika.
+ Saudara sekalian, jangan dilupakan pada saat kita bicara soal telekomunikasi
+ itu awalnya kan dimulai dari penggunaan signal asap dalam berkomunikasi
+ Lalu berkembangnya digital sekarang kita sudah sehari-hari menggunakan
+ perangkat telekomunikasi seperti handphone yang sudah juga berkembang di
+ dalamnya teknologi digital Sehingga komputasi dan komunikasi seakan-akan
+ sekarang berada dalam satu genggaman Kita melihat adanya kalkulator, adanya
+ pengambilan gambar adanya pengolahan kata, intinya komputasi dan komunikasi
+ semakin berkembang menyatu.
+ Demikian pula terjadinya media Media kalau kita ketahui awalnya kan dari
+ penggunaan media-media yang menyimpan informasi dalam bentuk kertas awalnya
+ sih daun, kemudian jadi kertas lalu berkembang lagi sekarang kepada sistem
+ elektronik yang berbasiskan digital Lalu juga kita lihat pengolahan informatika
+ yaitu teknologi informasi atau komputasi Awalnya dari penggunaan batu-batu
+ untuk menghitung lalu berkembang sempoa, berkembang lagi sistem komputer
+ yang masih berbasiskan analog lalu berkembang lagi dengan digital sehingga
+ sistem komputasi tadi dan sistem komunikasi tersatukan dengan eranya digital
+ tersebut.
+ Dulu mungkin Pemirsa masih ingat awal-awalnya komputer itu masih warna
+ hijau pengolahannya masih tekstual, angka, enggak ada grafisnya Tapi begitu
+ dia menjadi grafis, maka seakan-akan lahirlah suatu ruang baru yang disebut
+ cyberspace Kita akan bicarakan itu nanti di dalam perkembangan apakah benar
+ ada real space-nya di situ lalu bagaimana hukum terhadap cyberspace-nya.
+ Evolusi terhadap telematika ini kalau kita cermati sebenarnya akan mengakibatka
+n konvergensi telekomunikasi, media, dan informatika menjadi satu sistem
+ penyelenggaraan yang disebut orang mengatakan sistem elektronik.
+ Ada lagi yang menyatakan bahwa ini adalah sistem komunikasi berbasiskan
+ elektronik Nanti ke depannya mungkin nanti elektronik berubah lagi menjadi
+ potonik.
+ Tapi intinya adalah konvergensi teknologi, informasi, media, dan komunikasi
+ tersatukan dan kemudian menjadi suatu perkembangan peradaban baru dimana
+ informasi dan komunikasi mempunyai nilai-nilai yang lebih dalam kehidupan
+ kita sehari-hari Tidak hanya competitive advantage, tapi juga bahkan menyentuh
+ pada kehidupan privasi kita keluarga kita, dan juga pemanfaatannya dalam
+ perilaku kehidupan bermasyarakat Kata kunci dari evolusi telematika, berpadunya
+ konvergensi teknologi tadi dan jangan dilupakan, sistem komputasi yang
+ semula sangat centralized, dulu kita lihat komputer itu besar-besar kemudian
+ menjadi mengecil, nama paradigmanya adalah down-sizing Berkembang dari
+ mainframe, midrange, sampai kepada ternyata cukup networking kecil bisa
+ men-service sekian banyak user Dulu komputer itu bersifat dummy, yang kita
+ pegang ini prosesornya tidak di sini tapi di mainframe-nya, kemudian sekarang
+ down-sizing, artinya kita sendiri sudah punya komputer, ada CPU di sini
+ dan datanya dipertukarkan.
+ Awalnya ini disebut client kemudian yang per-service-nya disebut server
+ Komputer ini dari down-sizing, dari centralized, distributed, kemudian
+ menjadi internet lalu ditambah lagi dengan kemampuan mobile Sehingga sekarang
+ mobile communication hampir sama dengan computing.
+ Lalu berkembang lagi menjadi cloud computing Apa yang paling mudah kita
+ lihat sehari-hari? Anda tentu mempunyai email address bukan? Alamat email
+ tadi berada pada mailbox provider Katakanlah Yahoo, Google, dan sebagainya.
+ Apa yang Anda lakukan? Data Anda, Anda taruh di sana kemudian dengan sistem
+ elektronik, baik sistem informasi dan komunikasinya Anda jemput data itu
+ di server itu.
+ Fenomena itu adalah cloud computing.
+ Mereka memegang big data dari penggunanya.
+ Hal ini akan kita bahas lebih lanjut lagi dalam perspektif bagaimana teknologi
+ telekomunikasi media, dan informatika ini dalam konteks perubahan komunikasi
+ perilaku masyarakatnya komunikasi massa, dan penggunaannya.
+ Karena pada saat berpadunya konvergensi itu atau berpadunya perkembangan
+ telekomunikasi, media, dan informatika seakan-akan menjadi blur batasan
+ yang mana private communication yang mana mass communication Campur aduk,
+ sehingga hal-hal yang berbau pengumuman dilakukan oleh semua orang.
+ Mungkin dia tidak tersadarkan bahwa apa yang dia sampaikan informasinya
+ itu sekarang menjadi pengumuman Nanti kita bahas dalam evolusi terkait
+ komunikasi massanya.
+\end_layout
+
+\begin_layout Section
+Komunikasi Massa
+\end_layout
+
+\begin_layout Standard
+Pemirsa IndonesiaX tadi kita sudah bicara tentang evolusi peradaban evolusi
+ telekomunikasi, media, dan informatika, mari kita membahas tentang bagaimana
+ komunikasi massanya Begini, peserta sekalian.
+ Coba kita cermati bagaimana evolusi komunikasi massa itu.
+ Dulu surat kabar, orangnya disebut jurnalis, penyedianya pers.
+ Semakin berkembang teknologi, akibatnya kita sendiri bisa melakukan publishing.
+ Kita sendiri masuk sebagai aktor utama dalam melakukan penyebaran informasi
+ di ke media massa Secara tidak langsung orang malah perlahan-lahan malah
+ menjadi seorang yang narsis, dikit-dikit posting tentang informasi perilaku
+ dia.
+ Tapi sadarkah kita bahwa sisi privacy kita sudah mulai berkurang di saat
+ itu.
+ Dan sadarkah kita bahwa informasi yang disampaikan bisa jadi mengganggu
+ orang yang menerima informasi itu.
+ Kita bahas akan lebih lanjut dalam pembahasan materi ini.
+ Tapi mari kita cermati history dari komunikasi massa itu.
+ Apakah komunikasi massa mengakibatkan bahwa kita menjadi tidak menghargai
+ hak orang lain? Dulu kita nonton yang namanya TV, orang yang menyiarkan
+ TV itu harus memperhatikan norma masyarakatnya.
+ Ingat loh kita tadi sudah bahas bahwa semakin konvergensinya teknologi
+ itu maka telah bersatu pula yang namanya komunikasi massa dengan komunikasi
+ privat.
+ Coba ingat 
+\series bold
+kata kuncinya, telekomunikasi itu adalah berkomunikasinya antar-orang secara
+ privat
+\series default
+.
+ Kalau komunikasi massa, saya bicara dengan banyak orang, ya, saya yang
+ harus memperhatikan norma masyarakatnya.
+ Kalau saya bicara telekomunikasi lewat telepon, saya mau ngomong apapun
+ dengan orang lain dengan yang saya tuju, itu it is okay, enggak ada masalah.
+ Mau ngomongin orang kek, mau ngomongin soal politik, dan sebagainya.
+ Tapi pada saat saya berbicara kepada orang banyak, maka saya harus memperhatika
+n norma masyarakat itu.
+ History 
+\series bold
+komunikasi massa yang tadinya lembaga penyiaran, pers
+\series default
+ itu dipegang oleh segelintir pelaku usaha 
+\series bold
+kini dengan tumbuhnya social media atau social network
+\series default
+ 
+\series bold
+kita sendiri menjadi pemasok kontan, penyebar konten jadi aktor utama dalam
+ penyampaian informasi kepada massa
+\series default
+.
+ Ya coba kita cermati.
+ Dari bentuk yang dulu ada Undang-undang Penyiaran sekarang kepada dunia
+ internet dimana masing-masing kita bisa memasok informasi itu istilahnya
+ juga disebut user generated content.
+ Lalu perubahan pola komunikasi kita dari yang awalnya ya mungkin kita tanpa
+ sadar melakukan pertama kan publikasi informasi dulu, bikin website, atau
+ dikit-dikit cerita kepada orang.
+ Ini loh profile saya, ini loh CV saya, ini loh produk saya.
+ Itu baru tataran publishing.
+ Intinya menyampaikan informasi.
+ Belum ada interaksi Lalu kemudian kita semakin lama nyaman berinteraksi.
+ Setelah berinteraksi, timbullah transaksi.
+ Dan pada saat transaksi itu ternyata lebih maju lagi maka yang terjadi
+ kita seakan-akan masuk ke dalam dunia system elektronik itu lebih menyatu
+ lagi dimana hidup kita seakan-akan sudah menyerahkan privacy kita pada
+ sistem elektronik Comfort kita, security kita, tergantung pada sistem elektroni
+k itu nantinya.
+ Rekan-rekan sekalian, perlu diperhatikan kalau kita pandang kembali telekomunik
+asi di first generation itu apa ya? 
+\series bold
+Telekomunikasi kan kurang lebih ada lima generasi ya, generasi pertama,
+ generasi kedua, ketiga, keempat, kelima
+\series default
+.
+ Yang pertama, orang bicara soal voice.
+ Ya, halo, apa kabar, dan sebagainya.
+ Lalu mulai berkembang yang namanya teks, dulu kan ukuran keren itu kan
+ seorang eksekutif pakai pager ya kemudian bunyi tut tut, dia cari telepon
+ umum terdekat, dia ngomong.
+ Ya, padahal enggak eksekutif sebenarnya, malah merepotkan sendiri toh?
+ Yang menarik dari sini adalah, oh tambah teks.
+ Jadi yang namanya voice, kemudian teks plus voice.
+ Kontennya yang masih berubah.
+ Yang tadinya cuma suara, sekarang suara tambah aksara.
+ Lalu kemudian berkembang ini, dunia selular telepon.
+ Akibatnya, pager enggak kita pakai lagi.
+ Yang kita pakai di sini.
+ Bahkan voice jadi lebih mahal.
+ Kita jadi lebih senang pakai SMS.
+ Lalu berkembang lagi menjadi third generation.
+ Third generation ini video, bukan hanya teks, voice, tapi tampilan.
+ Tampilan gambar, suara, dan sebagainya, berpadu menjadi satu sehingga ia
+ membutuhkan rentang pita komunikasi yang lebih lebar.
+ Maka berkembanglah itu yang disebut pita lebar.
+ Lalu selanjutnya apa lagi? Yang ke depan secara tidak langsung telah berubah
+ adalah jaringan telekomunikasinya dari jaringan telekomunikasi yang centralized
+ menjadi terdistribusi.
+ Dari telekomunikasi yang cenderung secure, sekarang telah berubah menjadi
+ unsecure.
+ Kenapa? Karena ingin menyampaikan informasi secara cepat.
+ Itu berkembangnya internet.
+ Sering kali orang terlupa bahwa internet menawarkan suatu kemudahan dan
+ kecepatan.
+ Tapi apakah secure? Tidak.
+ Contoh paling mudah apa? Lihat saja, kalau kita pasang nomor telepon.
+ Nomor telepon di rumah, biasanya ditanyakan identitas orangnya secara jelas,
+ kedudukan hukumnya jadi jelas Tetapi begitu Anda masuk di internet, Anda
+ akses internet, dengan sistem yang namanya dynamic host configuration protocol
+ (DHCP) Anda bisa menggunakan IP address bergantian Sehingga nomor IP address
+ belum tentu merepresentasikan adanya satu subyek orang yang bertanggung
+ jawab.
+ Rekan-rekan peserta dari IndonesiaX mari kita renungkan perubahan telekomunikas
+i dari first G (1G) sampai pada fourth G (4G) berubahnya ragam kepada perubahan
+ pola jaringan, lalu berkembang lagi ke depan menjadi the fifth generation
+ (5G) poin pentingnya adalah komunikasi semakin menyatu sehingga aktivitas
+ yang mana komunikasi massa dan komunikasi privat antara kita semakin blur.
+ Hal ini membutuhkan kematangan kita dalam menyikapi perkembangan konvergensi
+ telekomunikasi, media, dan informatika.
+ Intinya apa? Ya hukum terhadap informasi itu sendiri Kelahiran internet
+ tadi, sekarang diyakini sebagai kelahiran new media Dimana seakan-akan
+ hukum yang lama ini enggak berlaku Harus diperlukan suatu hukum yang baru
+ untuk melihat hal ini.
+ Penyelenggaraan internet, inter net, artinya internetworking dia terlahir
+ dari penggunaan protokol komunikasi yang disebut TCP/ (garis miring) IP
+ Transmission Control Protocol/ (garis miring) Internet Protocol Intinya,
+ protokol komunikasi yang tadinya secure tujuh lapis, menjadi empat lapis
+ Dia mudah, dia cepat, tapi dia unsecure karena ada kemungkinan informasi
+ itu ditampik oleh orang yang menyampaikan informasinya.
+ Kelahiran internet seakan-akan telah merubah ketentuan hukum yang sudah
+ ada Dulu ada Undang-undang Telekomunikasi sendiri, Undang-undang Media
+ biasa rekan-rekan mengatakan Undang-undang Pers Undang-undang Penyiaran,
+ Undang-undang Film.
+ Kemudian ada tentang informatika, orang dulunya mengatakan Arsip undang-undangn
+ya karena penyimpanan informasi Kalau di Indonesia ada Undang-undang 11/2008
+ tentang Informasi dan Transaksi Elektronik.
+ Intinya, seakan-akan internet telah menjadi suatu media baru yang bahasa
+ lain dari internet ini, kalau internet tadi dalam perspektif teknologinya
+ adalah internetworking ya dalam tampilannya disebut cyberspace Suatu space
+ baru yang terlahir karena adanya dunia cyber Apakah ini suatu alam lain,
+ atau jangan-jangan masih alam kita juga, cuma persepsi kita saja yang perlu
+ kita luruskan Hal ini akan kita bahas dalam pembahasan selanjutnya tentang
+ cyberspace dan hukumnya.
+\end_layout
+
+\begin_layout Section
+Cyberspace and Law
+\end_layout
+
+\begin_layout Standard
+Pemirsa IndonesiaX mari kita bahas lanjutan pembicaraan kita yaitu bicara
+ tentang Cyberspace and Law Seringkali dipersepsikan yang disebut cyberspace
+ itu kalau di-Indonesia-kan namanya ruang maya.
+ Padahal apakah seperti itu? Sehari-hari masyarakat yang disebut maya itu
+ kan sesuatu yang tidak nyata Lalu pertanyaannya kalau dalam praktiknya
+ dunia sistem elektronik itu adalah basisnya ilmu elektronika harus listrik
+ apakah itu suatu kemayaan? Tentunya bukan Karena bicara sistem elektronik,
+ bicaranya ilmu elektronika ya pastinya ilmu fisik.
+ Ilmunya nyata, kan enggak ada namanya ilmu gaib.
+ Sehingga dunia cyber dipersepsikan sebagai ruang maya sesungguhnya itu
+ sesuatu kekeliruan Mari kita kritisi dulu satu per satu pengemukanya Cybernetic
+s theory itu dikemukakan oleh orang yang bernama Norbert Wiener Ya kurang
+ lebih umur 18 tahun jadi doktor dia di Harvard Inti dari penyampaian dia
+ adalah adanya suatu komunikasi itu orang menyampaikan informasi kemudian
+ ada feedback Dia belajar dari orang yang namanya Julian Bigelow yang penemu
+ radar itu loh Dimana orang menyampaikan suatu signal kemudian signal-nya
+ terpantul balik sehingga ada komunikasi Jadi komunikasi, penyampaian informasi,
+ kemudian ada feedback-nya.
+ Cybernetics theory bicara soal itu.
+ Lalu apa lagi? Yang berikutnya adalah yang namanya penulis novel Neuromancer
+ namanya William Gibson Dalam novel tersebut, dia memberitahukan seakan-akan
+ ada ruang baru loh pada saat sistem komputasi dan sistem telekomunikasi
+ tadi diselenggarakan dan kaya film Startrek dimana Anda bisa hadir pada
+ suatu ruang kemudian Anda mengatakan di set ruang itu kemudian ada datang
+ pacar Anda, pacarnya bentuk mungkin hologram Ya, jadi kurang lebih, seakan-akan
+ ada ruang baru pada saat dunia komputasi dan dunia komunikasi terwujud
+ dalam suatu penyelenggaraan sistem elektronik.
+ Sebenarnya kalau kita melihat lagi evolusi dulunya pada saat internet dikenal,
+ pada saat itu belum ada grafisnya belum ditemukan www itu, world wide web
+ protocol itu orang bicaranya masih teks dan angka Dan pada saat itu orang
+ belum bicara seakan-akan ada ruang baru Belum.
+ Tapi begitu semakin grafis dia, maka dunianya virtual halusinasi tadi,
+ seakan-akan nyata sehingga dinyatakan ada space baru, cyberspace.
+ Space artinya ruang, cyber itu medium kawatnya.
+ Bahkan kalau kita lebih jauh lagi siapa sih yang pertama kali mengemukakan
+ istilah cyber? Itu namanya Ampere.
+ Anda tahu Ampere itu digunakan sebagai satuan dari kuat arus.
+ Apa yang menarik dari sana? Ampere menyatakan yang namanya cyber itu ya
+ kawatnya.
+ Jadi kalau ditanya cyberspace, ya ruang dalam medium kawat.
+ Intinya apa? Pada saat kawat terhubung, kemudian protokol komunikasi yang
+ memungkinkan grafis, maka halusinasi virtual terjadi.
+ Sehingga menterjemahkan cyberspace menjadi ruang maya, kurang tepat.
+ Tapi karena istilah ini digulirkan oleh novelis kemudian juga dipersepsikan
+ lebih lanjut oleh media massa maka seakan-akan antara real space, ruang
+ nyata kita sehari-hari, dengan dunia cyber tadi, berbeda.
+ Padahal semestinya sama.
+ Tuhan tidak pernah menambah ruang baru Secara kasat mata yang bisa kita
+ lihat space di kita adalah udara dan ruang angkasa daratan, dan perairan
+ baik itu air tawar maupun air laut Intinya, cyberspace adalah suatu sistem
+ komunikasi yang mampu menyampaikan informasi itu menjadi lebih real dalam
+ konteks virtual.
+ Maka ada istilah lagi virtual reality Padahal sebenarnya semua ini realitas
+ yaitu penyelenggaraan sistem elektronik yang nyata Disampaikan dalam suatu
+ medium, yang kita sebut cyber, dengan aturan-aturan teknis yang intinya
+ adalah keberadaan kode-kode dalam penyampaian informasi tadi Nah menarik
+ di sini.
+ Kalau kita mencermati perkembangan internet selain bicara declaration of
+ independence dari internet, kita juga mendapati pengemuka tentang bagaimana
+ melihat hukumnya.
+ Masih ingat yang namanya Lawrence Lessig? Dia mengemukakan buku tentang
+ Code is Law.
+ Kode adalah Hukum.
+ Ini menarik ya.
+ Paradigma terhadap hukum dari cyberspace itu secara tidak langsung ada
+ tiga aliran Ini dikemukakan oleh orang yang bernama Victor Mayer-Schönberger.
+ Intinya begini, ada aliran yang bawaannya separatis Ini kan dunia komputer
+ belum diprediksi oleh hukum yang sebelumnya Sehingga yang terjadi adalah
+ hukum di dalam cyberspace ini berbeda dari hukum di dalam sistem elektronik
+ itu Apakah benar? Mungkin ada benarnya, mungkin ada tidak benarnya.
+ Tapi yang jelas, bisakah kita memisahkan apa yang kita lakukan di dalam
+ cyberspace dengan dampak kita dalam kehidupan sehari-hari Jadi dengan sendiriny
+a teori yang mengemukakan bahwa real space dengan cyberspace dipisahkan
+ hukumnya terbantahkan sendiri oleh kenyataan bahwa apa yang Anda komunikasikan
+ dalam cyber dan di cyberspace itu adalah ilmu elektronika maka semuanya
+ itu tidak ada pembedaan antara real space dengan cyberspace.
+ Lalu yang kedua, yang kedua ini alirannya adalah aliran tradisionalis.
+ Hukum itu tidak berubah atau tidak dinihilkan karena adanya suatu perkembangan
+ teknologi baru.
+ Apa contohnya? Gini.
+ Kalau orang berhasil menciptakan pisau maka yang kelihatan adalah dulu
+ belum ada pisau sulit memotong tanaman dan sayuran.
+ Setelah adanya pisau orang bisa motong sayuran motong daging.
+ Hukumnya? Kalau buat orang teknologi, kalau dipakai di luar itu, namanya
+ penyalahgunaan pisau.
+ Tetapi dibuat orang hukum, pada saat kita bercanda dengan pisau, orang
+ teraniaya.
+ Kita todong orang, penodongan, pengancaman.
+ Kita lempar sembarangan matinya nyawa orang itu pembunuhan Untuk aliran
+ yang tradisionalis hukum tidak dapat ditampik hanya karena perkembangan
+ teknologi yang baru.
+ Artinya, hukum tetap bekerja.
+ Pasal-pasal tentang pembunuhan tidak harus berubah karena ditemukan robot
+ yang bisa membunuh.
+ Karena definisinya tidak seperti itu.
+ Rumusan pasal tentang pembunuhan mengemukakan, perbuatannya bisa apa saja
+ yang diancam adalah akibat dari perbuatan hilangnya nyawa orang lain.
+ Jadi yang akan dibuktikan deliknya, bukan formil, tapi materil.
+ Itu sering kali dilupakan oleh orang-orang yang di luar hukum Inti dari
+ yang saya sampaikan tadi ada pendekatan yang berbeda ternyata antara dunia
+ kuantitatif dengan pendekatan yang kualitatif Hukum ini pendekatan kualitatif.
+ Teknologi manajemen, itu pendekatan kuantitatif.
+ Hal itu nanti akan kita bahas lebih lanjut.
+ Tapi saya rampungkan dulu aliran yang ketiganya aliran internasionalis.
+ Internasionalis ini berpikir karena pada saat sistem ini menjadi global
+ maka norma-norma yang berlaku dari suatu bangsa, bangsa lain terhubung
+ dalam national yang lain, terhubung dalam sistem kedaulatan hukum masing-masing
+ negara seakan-akan seharusnya yang dihargai adalah yang norma internasionalnya
+ saja.
+ Aliran-aliran internasionalis itu berpikir gini kenapa Indonesia harus
+ mempidanakan pornografi atau melarang pornografi? Wong itu pornografi berlaku
+ global kok.
+ Sehingga norma yang diakui ingin diterapkan dalam perilakunya sehari-hari
+ adalah norma internasionalnya saja, nasional tidak.
+ Tepatkah hal ini? Tentunya jadi tidak tepat.
+ Karena dalam sehari-hari kehidupan Anda dalam bermasyarakat, berbangsa,
+ dan bernegara kedaulatan itu tetap harus Anda junjung tinggi.
+ Ingat loh, Anda punya kewajiban secara konstitusi untuk menjunjung tinggi
+ hukum dan pemerintahan serta sistem hukum dan norma masyarakatnya.
+ Lanjut, kita akan bahas lagi bagaimana melakukan pendekatan interdisciplinary
+ ini sampai kepada kita lihat perkembangan bisnisnya dan bagaimana konstitusinya.
+\end_layout
+
+\begin_layout Section
+Perkembangan Bisnis dan Konstitusinya
+\end_layout
+
+\begin_layout Standard
+Pemirsa IndonesiaX kita ulang sedikit bahwa kita telah membahas tentang
+ evolusi telekomunikasi, media, dan informasi dalam perspektif teknologi
+ dan perubahan perilaku masyarakat khususnya tentang perkembangan komunikasi
+ massanya Jadi 
+\series bold
+komunikasi itu ada dua
+\series default
+ loh ya, 
+\series bold
+privat dan komunikasi massa.
+
+\series default
+ 
+\series bold
+Komunikasi privat terwadahkan dalam telekomunikasi, sedangkan komunikasi
+ massa dalam konteks penyiaran ataupun pers
+\series default
+ kalau dia media komunikasinya tercetak.
+ Kali ini kita akan bahas lebih lanjut lagi tentang hal ini dengan memperhatikan
+ bahwa dalam era informasi ini sebenarnya pendekatannya apakah cukup teknologi
+ dan bisnisnya? Atau memandangnya kita dari komunikasi massanya saja? Mari
+ kita cermati.
+ Tadi awal-awal saya telah menjelaskan informasi itu bisa dikatakan sebagai
+ sebuah kata benda dari kata inform and ation Inform itu kalau boleh dilihat
+ itu sebenarnya adalah inspiring sesuatu Atau imbuing atau kalau kita pecah
+ lagi informing membentukkan sesuatu apa yang ada di kepala kita sampai
+ kepada informasi itu kepada orang yang menerima informasi itu.
+ Prosesnya komunikasi, kebendaan yang kita pertukarkan itu adalah informasi.
+ Baik kita akan membahas lebih lanjut Era informasi ini kalau kita bahas
+ pendekatan teknologi, pendekatan bisnisnya, yang baru kelihatan lebih banyak,
+ pendekatan hukumnya seakan-akan menyusul Mari kita petakan sekarang, jadi
+ apa kata kuncinya untuk keberhasilan ini? Dia semakin efektif dan efisien
+ jika dilakukan pendekatan yang socio, techno, business prospective.
+ Perspektifnya juga mempadukan antara perkembangan sosialnya perkembangan
+ teknologinya, socio-techno, dan business.
+ Kenapa? Kalau di bisnisnya jadi bisnis orang lain, bangsa itu tidak sejahtera
+ tentunya.
+ Kalau kita tarik gambarnya, informasi dan komunikasi, kemudian pecah tiga
+ kita bilang pendekatan indisiplinernya, yang di sini kita sebut teknologi.
+ Apa inti teknologi? Teknologi ilmu tentang sesuatu yang bersifat teknis
+ dan diterapkan.
+ Elemennya apa saja? Elemennya adalah keberadaan dan metode yang baru itu
+ lalu perangkatnya, tapi jangan dilupakan kebutuhan masyarakatnya.
+ Teknologi yang bagus adalah teknologi menjawab kebutuhan masyarakat itu
+ sendiri.
+ Kalau saya punya persoalan di depan rumah saya tanah itu enggak gembur-gembur,
+ maka saya butuh teknologi untuk menggemburkan tanah itu.
+ Apa bentuknya? Awalnya sih pacul.
+ Tapi lama kelamaan saya menciptakan yang namanya traktor.
+ Inti dari perkembangan teknologi adalah seperti lompat katak, menjawab
+ kebutuhan manusia dalam spesifik kebutuhan itu.
+ Kegiatan dia adalah pemecahan masalah.
+ Apa yang dilakuannya bertahap sehingga dia tidak long-live bicaranya, paten
+ itu 20 tahun toh.
+ Invensi-invensi tadi kemudian dilindungi dalam ranah hak intelektual dalam
+ konteksnya disebut paten.
+ Rangkaian pemecahan masalah, tercipta suatu metode dan teknik baru, kemudian
+ tercipta perangkat baru.
+ Tapi kalau dilupakan sisi manusianya maka teknologi itu hanya membuat ketergant
+ungan pada Anda.
+ Teknologi yang baik adalah teknologi yang sesuai dengan kebutuhan Anda.
+ Kalau teknologi itu mubazir maka yang ada Anda cuma punya life style, tapi
+ Anda terjajah oleh teknologi itu Jadi dalam pendekatan hukum, law is an
+ engineering.
+ Tapi dalam pendekatan teknologi, manusia bisa berubah karena penggunaan
+ teknologi.
+ Apa contoh yang paling mudah? Masih ingat waktu dulu Anda enggak punya
+ HP, Anda ke mana-mana, Anda enggak merasa yakin Anda ditelepon orang.
+ Anda hidupnya nyaman di jalan.
+ Sekarang, kalau handphone Anda ketinggalan, Anda pulang ke rumah.
+ Yang terjadi apa? Anda sudah tergantung toh dengan teknologi? Apalagi kalau
+ Anda masuk dalam social media? Yang terjadi apa? Anda sudah semakin narsis,
+ Anda meng-upload semua informasi Anda.
+ Kerjaan bangun tidur, men-check status Anda sendiri.
+ Sebegitukah topnya Anda sehingga orang ingin tahu update status Anda dalam
+ 24 jam.
+ Menarik ya.
+ Baru pendekatan teknologi dan pendekatan perilaku masyarakat dan penggunanya.
+ Yang menarik lagi adalah pendekatan bisnisnya.
+ Apa inti dari manajemen? Inti manajemen itu adalah dua hal, kegiatan itu
+ sendiri yaitu activities, planning, organizing, controlling, motivating,
+ dan sebagainya, teori-teori manajemen pada umumnya.
+ Yang berikutnya adalah Anda punya tujuan mencari profit.
+ Bagaimana Anda menggerakkan faktor-faktor itu, man, money, material, sampai
+ kepada tujuan itu.
+ Kalau teknologi pendekatan manajemen ini intinya adalah pendekatan yang
+ sifatnya kuantitatif.
+ Angka-angka.
+ Dia tidak kualitatif.
+ Maka yang terjadi adalah, Anda ingin berkorban seminimal mungkin untuk
+ meraih keuntungan semaksimal mungkin.
+ Tapi kalau Anda pakai hukumnya, dapatkah Anda menjual-belikan barang orang
+ lain, karena itu yang lebih murah, demi Anda mencapai keuntungan? Kan enggak
+ bisa, karena hukum menyatakan kebendaan orang ya orang itu yang bisa menjualnya.
+ Intinya adalah, kalau enggak ada hukumnya, ini prahara dua-duanya ini.
+ Antara teknologi dan manajemen, bicara yang tidak sesuai dengan kebutuhan
+ masyarakatnya.
+ Apa yang membuat itu lebih efektif? Hukumnya.
+ Ingat konstitusi kita mengatakan negara kita adalah negara hukum, bukan
+ negara teknologi.
+ Bukan negara manajemen.
+ Dan bukan negara kebijakan publik.
+ Jadi yang paling inti di sini teknologi dan manajemen tidak akan tercapai
+ kalau tidak didukung oleh sistem hukum yang kuat.
+ Sistem hukum kalau kita bicarakan dalam arti luas, itu dari konstitusi
+ sampai peraturan perundang-undangannya.
+ Kalau dia bernafas seirama dengan teknologi dan manajemen tadi, maka dia
+ akan menjadi efektif, berlaku di tengah masyarakatnya.
+ Orang hukum jangan dipaksakan ngomong soal efisien.
+ Tapi yang harus dipaksakan dari orang hukum adalah bagaimana mencapai efektivit
+as itu.
+ Lalu kita perhatikan dengan baik lagi, pendekatan interdisciplinary tadi.
+ Technology, manajemen, dan hukum.
+ Apa wujudnya? Electronic system.
+ Lalu apa yang harus dibuat dari electronic system ini? Dia harus dibuat
+ seperti black box Masih ingat black box pesawat terbang? Artinya, benda
+ itu tetap tidak gampang diubah-ubah agar nantinya bisa menjadi kekuatan
+ pembuktian kalau benda ini mau digunakan dalam bertransaksi.
+ Mari kita bahas lebih lanjut lagi hal ini dalam penyelenggaraan sistem
+ elektronik baik nasional maupun global.
+ Saya sarikan dulu intipatinya.
+ Konvergensi telematika mengakibatkan bergabungnya telekomunikasi, media,
+ dan informatika.
+ Apa intinya? Telekomunikasi adalah kegiatan mengirimkan informasi sampai
+ ke tujuan.
+ Ada originator, ada resipient.
+ Orang kirim informasi harus dapat dipastikan dikirim dan diterimanya.
+ Maka definisi hukumnya adalah setiap kegiatan mengirimkan informasi sampai
+ menerima informasi.
+ Maka kalau Anda lihat dulu dinamikanya, Pos dan Telekomunikasi satu unit
+ kerja.
+ Yang berikutnya adalah bicara soal penyiaran.
+ Apa inti penyiaran? Penyiaran itu siar, artinya memancarkan informasi,
+ mentransmisikan informasi, menyebarluaskan informasi ke seluruh orang.
+ Anda tidak bisa menuntut saya, oh informasi saya enggak sampai.
+ Saya setelah menyebarkannya, tapi saya tidak bisa menjamin bahwa informasi
+ itu Anda terima dengan baik atau tidak.
+ Tapi kegiatan broadcasting adalah kegiatan mem-broad, meluaskan, casting.
+ Memancarkan, menyebarluaskan informasi.
+ Itu karakteristik dari penyiaran.
+ Telekomunikasi, komunikasi khusus.
+ Penyiaran, komunikasi penyebaran informasi kepada banyak orang.
+ Lalu yang berikutnya informatika.
+ Apa kata kunci informatika? Kata kunci informatika adalah saya menggunakan
+ suatu perangkat pengolah informasi agar informasi yang saya dapatkan sesuai
+ dengan ekspektasi saya.
+ Sehingga saya merekayasa ini.
+ Itu informatika.
+ Pengolah informasi agar mengolah data menjadi informasi yang sesuai dengan
+ kebutuhan saya.
+ Sehingga telekomunikasi, media, dan informatika menjadi sistem elektronik,
+ ketemu di sini.
+ Ketemu dengan Anda semua, terciptalah suatu gigantic network, internet
+ yang kita sebut, yang kemudian kita membuat terhubung diri kita kepada
+ orang lain.
+ Lalu bagaimana sisi bisnisnya? Sisi bisnisnya adalah ada pihak-pihak yang
+ akan menyatakan, menjual informasi dari hulu sampai hilir, inget ya dari
+ hulu sampai hilir itu kan dari awalnya air, sampai terakhir.
+ Gambarannya apa? Ada orang yang akan memberikan atau mencari usaha, menyediakan
+ infrastrukturnya dulu.
+ Piping telekomunikasi.
+ Kemudian ada lagi yang menyediakan konten, saluran-saluran komunikasi sampai
+ konten, sampai kepada marketnya itu dikuasai oleh pihak-pihak pelaku usaha.
+ Dengan sendirinya pelaku usaha telekomunikasi si operator masuk jadi penyiaran,
+ perusahaan penyiaran masuk ke dalam jadi operator, pengolah informatika
+ juga begitu mengolah menjadi penyelenggara communication network.
+ Ini fenomena yang menarik.
+ Artinya, konvergensi perangkat menciptakan konvergensi market.
+ Konvergensi market mengakibatkan konvergensi pelaku usaha, konvergensi
+ bisnis, dan konvergensi hukumnya.
+ Pelaku usaha dulu kan kalau kita ingat, Sony itu apa sih? Perusahaan elektronik
+ consumer goods.
+ Tapi coba dilihat, Sony investasi untuk Hollywood.
+ Dia beli perusahaan pembuat konten, lalu coba lihat juga dulu Ericsson
+ apa? Cuma HP, sekarang ikut bikin jaringan.
+ Lihat juga perusahaan media kita, MNC, dulu ngapain dia? Cuma siaran.
+ TV kabel.
+ Sekarang? Mau masuk juga menjadi penyedia fiber optik sampai ke rumah-rumah
+ yang menawarkan Anda jasa akses internet juga.
+ Demikian juga Telkom berubah yang tadinya operator, berubah menjadi perusahaan
+ yang mau menyalurkan juga saluran telekomunikasi tidak hanya telekomunikasi
+ internet aksesnya, tapi juga penawaran konten di dalamnya.
+ Yaitu apa? Nonton TV kabel.
+ Ini telah memperlihatkan bahwa ternyata telah terjadi restrukturisasi industri
+ telekomunikasi dan penyiaran, serta informatika.
+ Ringkasnya, terjadilah restrukturisasi industri dalam tiga lapis.
+ Empat lapislah.
+ Lapis pertama bicara soal perangkat-perangkat yang ada di tangan kita.
+ Customer peripheral equipment, ini handphone, siapa industrinya.
+ Lalu yang lapis keduanya ini adalah penggunaan-penggunaan sumber daya resources
+ dari infokom dimana di situ yang di kategori resources adalah penggunaan
+ spektrum frekuensi, sistem penomoran, nama domain, IP address, nomornya
+ masih di dalam penggunaan resources.
+ Hukumnya adalah bagaimana membuat alokasi resources itu menjadi optimal
+ untuk sebesar-besarnya kemakmuran rakyat.
+ Spektrum frekuensi, penomoran, dan nama domain.
+ Yang berikutnya adalah regulasi terhadap network dan akses.
+ Siapa itu? Penyedia-penyedia jaringan telekomunikasi dan penyiaran.
+ Lalu baru berikutnya lapisan yang paling atas yang disebut aplikasi dan
+ konten.
+ Yaitu seperti yang Anda ketahui, Anda mau main game kan Anda pakai aplikasi.
+ Anda masuk mailbox, itu Anda pakai aplikasi.
+ Dan kontennya ada di situ.
+ Selain itu apa lagi? Perusahaan-perusahaan yang go electronic.
+ Contoh Detik adalah content provider.
+ Anda ingin mendapatkan suatu informasi yang di mana suatu provider itu
+ berkutat sebagai penyaji informasi.
+ Jadi selain internet access provider atau internet service provider, maka
+ Anda juga akan menemukan yang namanya konten-konten provider.
+ 
+\series bold
+Menarik ternyata di belakang ini dunia bisnisnya sedang berkembang seakan-akan
+ ada pelaku usaha yang ingin menguasai dari hulu sampai hilir
+\series default
+.
+ Konsentrasi konglomerasi media massa sampai kepada dunia media komunikasi
+ khusus itu menjadi kunci penting untuk kita tengarai ke depan.
+ Jangan sampai ada un-fair competition nantinya.
+ Tumbuhnya peluang-peluang usaha harus dinikmati oleh seluruh lapisan komponen
+ bangsa agar terjadi bisnis telematika yang lebih sehat dan lebih menyejahteraka
+n bangsanya.
+ Paralel dengan itu pembicaraan internet secara global ada dalam forum internet
+ governance forum.
+ Apa gambarannya? Gambarannya itu masih berantakan semua.
+ Kenapa? Karena belum disepakati secara global apakah negara hukum harus
+ lepas dari pengaturan tentang internet itu? Enggak bisa.
+ Yang jelas, berpadunya kepentingan pemerintah, masyarakat, dan pelaku usaha
+ akan semakin bergabung satu.
+ Hal ini juga tidak berbeda dengan pemikiran hukum yang disebut modern state
+ law, dimana peranan pemerintah tetap ada, peranan pelaku usaha ada, peranan
+ masyarakat madani ada.
+ Sesuai dengan konstitusi kita yang menyetarakan bahwa kemerdekaan kita
+ ditunjang juga dengan peranan pemerintah untuk memajukan kesejahteraan
+ umum.
+ Melindungi segenap bangsa Indonesia ini, ya.
+ Kemudian melindungi bangsa dan wilayahnya, mencerdaskan kehidupan bangsa,
+ memajukan kesejahteraan umum.
+ Kita buka kembali di dalam pembukaan Undang-undang Dasar 1945.
+ Berikutnya kita akan bicara bagaimana dinamika telekomunikasi, media, dan
+ informatika yang telah terwujud sebagai suatu penyelenggaraan sistem elektronik
+ baik nasional maupun global dalam rangka mencapai kesejahteraan bangsanya.
+ Di sini kita akan bicara hukum dan telematikanya.
+ Dengan sendirinya kita bicara lapisan pertama kita saat ini adalah teknologi
+ dan konstitusi.
+ Kita akan sambung lagi dalam sesi berikutnya.
+\end_layout
+
+\begin_layout Part
+Materi Minggu Kedua
+\end_layout
+
+\begin_layout Section
+Hukum dan Telematika
+\end_layout
+
+\begin_layout Standard
+Pemirsa IndonesiaX mari kita lanjutkan pembahasan kita bagaimana hukum terhadap
+ informasi dan komunikasi itu tadi Hukum terhadap informasi dan komunikasi
+ akan mengakibatkan kita harus membicarakan bagaimana hukum terhadap sistem
+ elektronik itu Secara garis besar kotaknya adalah hukum terhadap informasi
+ komunikasi Di dalamnya ada cyber law, cyberspace law, di dalamnya lagi
+ ada e-government, e-commerce, cyber security, dan sebagainya.
+ Lebih lanjut kita akan lihat korelasi penerapan teknologi informasi, media,
+ dan komunikasi ini dengan perkembangan konstitusi Unik yang terjadi di
+ Eropa bahwa dengan kesadaran bahwa setiap orang mempunyai data pribadi
+ dimana data pribadi itu adalah properti orang tersebut tengah berlaku perlindun
+gan tentang data pribadi yang lahir dari konvensi regionalnya yang mengakibatkan
+ konstitusi dari negara tersebut berubah.
+ Dimana konstitusi negara tersebut mulai memasukkan sisi-sisi pemanfaatan
+ teknologi dan juga perlindungan data pribadi Nah di Indonesia hal ini mungkin
+ belum berubah seperti itu Tapi yang jelas setelah reformasi, Indonesia
+ telah mengamandemen konstitusinya Dari amandemen 1, 2, 3, dan 4 Bagaimana
+ kita menarik titik tautnya? Konstitusi adalah sesuatu hal diletakkan oleh
+ founding fathers Melindungi HAM, memberikan tugas pada negara dan memberikan
+ kewajiban konstitusi kepada kita.
+ Ini yang seringkali lalai kita Ingat.
+ Di sisi lain, kita juga harus mengetahui, ada etika dalam berinformasi
+ dan berkomunikasi.
+ Apa saja itu? Yang paling simpelnya perlu diingat adalah PAPA privacy,
+ accuracy, property, accessibility Lebih lanjutnya? Akuntabilitas, responsibilit
+as, liability, dan due process Kurang lebih total jadi delapan ya? Tapi
+ yang inti benar untuk Anda ketahui adalah privacy, accuracy, property,
+ accessibility.
+ Hal ini konstitusi akan sejalan dengan etika dan juga sejalan dengan perlindung
+an human rights global Declaration of Human Rights sampai dengan International
+ Covenant on Civil and Political Rights.
+ Akses internet seakan sekarang ini dihargai sebagai hak asasi manusia untuk
+ memperoleh informasi dari seluruh saluran komunikasi yang ada Baik private
+ maupun mass communication.
+ Kegiatan memperoleh, memiliki, dan menyampaikan informasi Sehingga penerapan
+ teknologi ini dipersepsikan hampir sama dengan freedom of speech Dalam
+ kajian ini, tentunya kita harus melihat lebih jauh tentang bagaimana konstitusi
+ dan dinamika telekomunikasi kemudian bagaimana HAM tadi terlindungi.
+ HAK tidak hanya diukur dari segi global tapi juga HAM mengikuti bagaimana
+ social norms dari bangsa dan negaranya Jangan dilupakan keberadaan pasal-pasal
+ tentang HAM pasal 28, tapi jangan lupa dari 10 ketentuan, 9 kebebasan Anda
+ 1 penghargaan HAM orang lain Hal ini sejalan tidak hanya dalam konstitusi
+ kita dalam International Covenant on Civil and Political Rights (ICCPR)
+ Itu jelas juga ada perlindungan terhadap privacy Apakah manusia hidup dalam
+ bermasyarakat tidak perlu privacy? Memang dalam konstitusi tidak tegas
+ dinyatakan privacy karena privacy itu kalau kita terjemahkan segala sesuatu
+ aspek yang terkait dengan kehidupan pribadi seseorang.
+ Nanti kita akan bahas ini privacy lebih dalam.
+ Tapi yang paling penting pada saat teknologi disebutkan coba buka konstitusi
+ kita.
+ Ada toh kata-kata teknologi? Apa kata kunci berikutnya? Informasi Kita
+ search dalam konstitusi kita.
+ Ada informasi, ada komunikasi Tapi jangan lupa, ada kewajiban kita terkait
+ informasi komunikasi itu.
+ Mari kita bahas pertama tentang Declaration of Human Rights Declaration
+ of Human Rights biasanya orang akan mengenangnya adalah Freedom of speech
+ pertama ya Freedom of speech membicarakan kebebasan seseorang dalam menyampaika
+n pendapat tentang informasinya.
+ Hal itu tidak boleh di-interfere atau diganggu oleh orang lain.
+ Jadi kebebasan pertama adalah kebebasan Anda menyatakan ekspresi Anda,
+ kemudian menjadi suatu informasi, informasi ini harus sesuai dengan diri
+ Anda tidak boleh diintervensi orang lain.
+ Tapi pada saat informasi dikomunikasikan kepada orang lain ini wilayah
+ bukan hukum informasi lagi tapi hukum terhadap komunikasinya.
+ Baik.
+ Kita cermati ada bagaimana Anda berekspresi intelektual menjadi properti
+ Anda dan ada kebebasan berpendapat menyatakan freedom of speech Anda sesuai
+ dengan diri Anda Tapi pada saat diri Anda ini Anda jadikan sesuatu dikirimkan
+ ke orang lain tanya hukum komunikasinya Yaitu, Anda boleh ngomong apa saja
+ tapi orang yang Anda ajak bicara enggak suka maka kebebasan Anda menyatakan
+ pendapat tadi sudah terbatas.
+ Anda ngomongin orang lain orang lain enggak suka, orang tersebut punya
+ hak untuk memulihkan apa yang Anda buat terhadap dirinya Hidup manusia
+ berperilaku sosial, haknya tidak absolut kebebasan saya tapi saya harus
+ menghargai HAM orang lain Singkat kata, hak konstitusi tidak hanya bicara
+ soal kebebasan Anda di tengah masyarakat bangsa, dan negara, tapi Anda
+ juga harus menghargai HAM orang lain.
+ Bagaimana dengan freedom of speech ini? Freedom of speech bukanlah kebebasan
+ yang mutlak.
+ Kebebasan menyatakan pendapat itu dalam konstitusi Amerika juga diatur
+ tentang pembatasan-pembatasannya.
+ Apa? Anda tidak boleh menyampaikan sesuatu yang sifatnya rasis merusak
+ norma sosial, menyerang kehormatan orang lain, karena orang lain punya
+ hak juga untuk melindungi hak asasi dia.
+ Lebih lanjut kita bahas baru-baru ini masyarakat biasanya resah seakan-akan
+ dunia internet ini sudah terkekang lagi karena ada pasal-pasal di dalam
+ undang-undang yang konvensional yang menyatakan adanya pencemaran nama
+ baik.
+ Tidak juga sebenarnya.
+ Karena baik dalam dunia sehari-hari maupun Anda berperilaku di cyberspace
+ Anda jangan menciptakan diri Anda sebagai berkepribadian ganda.
+ Kenapa? Sehari-hari Anda begitu sopan, tapi begitu masuk di cyberspace
+ Anda tukang fitnah, tukang serang orang lain.
+ Intinya dari hal ini adalah kalau Anda ingin melakukan sesuatu di cyberspace,
+ Anda mau posting, pastikan bahwa Anda enggak merusak orang lain.
+ Anda enggak membuat masyarakat kesal karena Anda membuat postingan yang
+ mengganggu orang lain.
+ Atau, Anda juga perhatikan baik-baik jangan karena Anda senang yang namanya
+ gerakan pornografi Anda kebebasan Anda, kemudian Anda menyatakan bahwa
+ porno bisa diakses anak kecil.
+ Bahaya kan? Demikian pula Anda menyampaikan informasi yang sadis misalnya.
+ Ada pembunuhan pemenggalan orang lain Anda sampaikan di postingan Anda.
+ Niscaya akan ada orang lain yang menyatakan ini Anda kaya enggak tahu norma
+ sosial sih.
+ Jangan sampai Anda disebut anti-sosial dalam konteks di internet Mari kita
+ bicarakan lebih lanjut hal ini dalam konteks privacy.
+\end_layout
+
+\begin_layout Section
+Privasi
+\end_layout
+
+\begin_layout Standard
+Pemirsa IndonesiaX tadi kita sudah membahas dinamika teknologi sampai kepada
+ bagaimana dinamika konstitusi kita.
+ Bukan hanya bicara hak berpolitik, hak untuk ekonomi sosial kita juga bicara
+ kepada kebebasan individu yang harus bebanding lurus juga dengan kepentingan
+ umum.
+ Jadi kalau kita telaah apakah benar kita hanya bicara soal hak konstitusional?
+ Jangan lupa, kita juga akan bicara kewajiban konstitusional.
+ Apa kewajiban konstitusional kita? Kalau dari segi HAM adalah menghargai
+ HAM orang lain.
+ Lalu menghargai norma masyarakat.
+ Lalu ikut serta dalam keamanan nasional.
+ Ingat loh, yang namanya aman itu bukan hanya hak tapi kewajiban kita untuk
+ menciptakan keamanan.
+ Turut menjaga norma masyarakat.
+ Jangan sampai public order rusak, social norm rusak.
+ Apalagi? Mengikuti pendidikan dasar.
+ Apa yang paling utama? Menjunjung tinggi hukum dan pemerintahan yang sah.
+ Jadi kalau kita cermati ya dalam konstitusi setidak-tidaknya tiga atau
+ empat kewajiban yaitu kewajiban menghargai HAM orang lain menjunjung tinggi
+ hukum dan pemerintahan yang sah.
+ Mengikuti pendidikan dasar turut serta dalam keamanan nasional.
+ Selanjutnya untuk konstitusi kita mewajibkan juga tentang kewajiban setiap
+ anak Indonesia untuk mengikuti pendidikan dasar.
+ Indonesia juga mengatakan dalam konstitusinya ada kewajiban menjunjung
+ tinggi hukum dan juga sistem pemerintahan yang sah.
+ Ya kekuasaan pemerintahan hukum yang sah.
+ Setidak-tidaknya kita dapati ada empat ya yang terakhir apa? Hak atas keamanan
+ dan juga kewajiban untuk mendukung sistem keamanan tadi.
+ Jadi bentuk aman itu bukan hanya hak, tapi kewajiban untuk turut serta
+ menciptakan masyarakat yang aman.
+ Menciptakan negara yang aman.
+ Pemirsa IndonesiaX, perlu kita perhatikan bahwa dalam setiap lingkup komunikasi
+, yang harus kita pikirkan adalah adanya hak dan adanya kewajiban terhadap
+ intelektual.
+ Hukum melindungi sejak manusia mengekspresikan intelektualnya menjadi suatu
+ produk tertentu.
+ Di situ ada perlindungan bahwa ini properti kita.
+ Rezimnya intellectual property.
+ Tetapi pada saat informasi ini dikomunikasikan kepada pihak lain, ini ranahnya
+ hukum terhadap komunikasi.
+ Komunikasi privat dan komunikasi massanya.
+ Menarik untuk dicermati bahwa freedom of speech sesungguhnya bicara soal
+ freedom of expression.
+ Orang tidak boleh interfere ke kita, kita dalam menyatakan pendapat tidak
+ boleh diintervensi oleh orang lain.
+ Tetapi pada saat kita menyatakan pendapat pendapat itu menyangkut orang
+ lain, sesungguhnya ada hak orang lain terhadap hal yang kita sampaikan.
+ Bukankah sedari awal yang namanya ekspresi intelektual setiap orang nilainya
+ itu subyektif bukan obyektif.
+ Subyektif karena semuanya melekat kepada perspektif kita tentang sesuatu.
+ Kapan dia menjadi obyektif? Pada saat sesuatu ini diinteraksikan dengan
+ yang lain.
+ Kalau saya ingin membicarakan tentang seseorang bernama A maka kalau pandangan
+ saya saja, namanya baru subyektif.
+ Tapi pada saat saya mendiskusikan tentang si A bersama si C, bersama si
+ D, maka itu memenuhi kaidah obyektivitas.
+ Jika itu diangkat ke dalam ranah media, maka setiap penyelenggara media
+ harus membawa hal ini menjadi seobyektif mungkin.
+ Amanat dari setiap penyampai media dan pengelola media adalah public trust
+ obligation.
+ Dengan dalih mengatasnamakan masyarakat, timbul kewajiban untuk menjamin
+ bahwa media ini netral.
+ Pemirsa IndonesiaX sekalian, dalam intelektual rights, tersimpan liability.
+ Mengapa? Kalau kita mengatakan saya menciptakan sesuatu dan sesuatu ini
+ berdampak jelek buat masyarakat, maka selain hak individual saya ada kepentinga
+n umum yang dijaga sehingga setiap orang yang mengatasnamakan kepentingan
+ umum dan mendapatkan privilege hak itu harus menjamin adanya kewajiban
+ mengemban amanat itu, yang kita sebut sebagai public trust obligation.
+ Dimana di dalamnya kita mengatakan ada teori-teori tentang public interest.
+ Hal ini bisa Anda telusuri di dalam setiap pembahasan mengenai komunikasi
+ massa dan jurnalistik.
+ Tapi yang paling penting, kita lihat, ada keadilan yang harus kita lihat
+ secara interaktif.
+ Sering kali orang berpikir bahwa yang namanya keadilan itu cuma keadilan
+ distributif.
+ Hak akses setiap orang untuk mendapatkan air itu keadilan distributif.
+ Tetapi setiap orang membicarakan orang lain, bahwa hal itu akan berdampak
+ kerugian pada orang lain, itu bukan distributive justice, tapi itu interactive
+ justice.
+ Artinya, setiap orang selain mempunyai positive freedom, dia juga harus
+ memperhatikan ada negative freedom.
+ Ada kesadaran internal seseorang untuk menyampaikan informasi seobyektif
+ mungkin dan menghargai privacy dan reputasi orang lain.
+ Pemirsa IndonesiaX sekalian, intelectual rights and liabilities ini kalau
+ kita olah berdasarkan siklusnya, maka kita akan lihat, pertama data.
+ Data itu kan ada data yang didapat dari proses pengolahan intelektual dengan
+ cara collecting data dan sebagainya, tetapi ada juga sesuatu data yang
+ merupakan melekat properti setiap orang.
+ Contoh, tentang saya.
+ Saya bernama Edmon, berfisik seperti ini, tampilan seperti ini, sidik jari
+ seperti ini.
+ Itu semua kalau jadi data, itu jadi data personal.
+ Data yang milik saya.
+ Yang setiap orang memperolehnya harus menjamin bahwa pemanfaatan itu harus
+ sesuai dengan hukum, tidak disalahgunakan.
+ Karena terhadap setiap pengungkapan tadi, berdampak ketidaknyamanan kepada
+ saya.
+ Mengenai pendekatan privasi, kita akan bahas di dalam sisi privacy-nya.
+ Tapi dalam konteks internet intellectual rights and liabilities, setiap
+ intelektual seharusnya bukan hanya mengemban hak, tapi kewajiban intelektual
+ dia kepada masyarakatnya.
+ Mengolah data menjadi informasi, informasi menjadi knowledge, knowledge
+ menjadi suatu kebijakan, wisdom, yang kemudian dengan hal itu dia mengambil
+ suatu keputusan, dan menjadi suatu action dan hal hal itu menjadi data
+ kembali.
+ Data terhadap saya, data pribadi saya yang melekat pada saya, data tentang
+ diri saya yang diungkapkan orang lain, hal itu bisa saja berbau opini atau
+ jangan-jangan berbau suatu intensi tertentu.
+ Apa contoh data opini? Begini.
+ Edmon menyatakan dirinya sehat, itu tidak laku secara hukum.
+ Itu baru pernyataan Edmon.
+ Yang jelas menyatakan bahwa Edmon ini sehat adalah seorang dokter yang
+ dengan knowledge-nya, dengan dasar informasi yang dia olah, dia menjadi
+ obyektif untuk menyatakan saya sehat atau tidak.
+ Psikolog, dan sebagainya.
+ Profesi-profesi tadi dalam menyatakan pendapat dikurung oleh sesuatu metodologi
+ dan sistem tertentu, dengan pengetahuan yang cukup, dia menyatakan pendapat.
+ Nah kebanyakan dari kita justru menyatakan pendapat itu dengan gamblangnya,
+ dengan seenak-enaknya tanpa punya dasar informasi.
+ Hal itu sebetulnya belum dikatakan opini yang obyektif.
+ Itu semua opini yang subyektif.
+ Pemirsa IndonesiaX sekalian, telah diuraikan tentang data personal, tentang
+ data yang sifatnya opini.
+ Dan data yang berikutnya adalah intentional.
+ Saya selama ini berteman dengan banyak orang.
+ Setiap orang punya intention tertentu dalam memandang saya.
+ Ada yang suka, ada yang tidak suka.
+ Oleh karena itu, penyampaian data-data yang bersifat itu dalam ranah media,
+ itu bukan absolute privilege, tapi qualified privilege.
+ Karena boleh jadi hal itu didasari oleh malicious intents, atau niatan
+ yang buruk.
+ Kebebasan absolut hanya dapat Anda peroleh pada saat Anda bicara sesuatu
+ secara obyektif dalam lingkungan yang memang membuktikan kebenarannya,
+ contoh di pengadilan.
+ Seseorang mengatakan dicurigai atau layak diduga seseorang menjadi pembunuh
+ dengan dasar-dasar alat bukti yang sah.
+ Begitu juga pada saat pembicaraan di muka parlemen tentang pembahasan sesuatu,
+ itu absolute privilege.
+ Tapi pada saat itu dipentaskan dalam suatu ranah media massa, hal itu bukan
+ absolute privilege.
+ Tapi yang terjadi adalah qualified privilege.
+ Yang perlu digarisbawahi dari kalimat saya sebelumnya adalah, pertama,
+ setiap intellektual pada saat dia berproduksi atau mengekspresikan intelektualn
+ya, hukum telah melindunginya.
+ Jadi properti dia.
+ Kalau ada yang jiplak aja disalahkan, gitu ya.
+ Tapi pada saat itu pula timbul liabilities-nya, bukan hanya hak.
+ Yaitu menghargai hak orang lain.
+ Atau menjamin bahwa semua kreasi intelektual dia tidak bertentangan dengan
+ kepentingan masyarakat.
+ Karena kepentingan masyarakat adalah kepentingan yang lebih tinggi.
+ Lalu yang berikutnya adalah bicara soal bagaimana personal data protection
+ itu seharusnya dihargai.
+ Jadi, Pemirsa sekalian, jangan dilupakan bahwa dalam setiap privilege kekhususa
+n diberikan hak kepada Anda, Anda juga harus menghargai ranah-ranah yang
+ berlaku di kepentingan masyarakat.
+ Sehingga yang namanya konstitusi itu dengan sendirinya memberikan keseimbangan
+ antara hak individual dengan hak kepentingan umum itu sendiri.
+\end_layout
+
+\begin_layout Section
+Kewajiban Intelektual
+\end_layout
+
+\begin_layout Standard
+Pemirsa IndonesiaX tadi saya telah kemukakan ada konstitusi, ada intellectual
+ rights atau hak intelektual, ada kewajiban intelektual Pada saat kewajiban
+ intelektual disampaikan maka yang akan tercatat dalam pikiran kita sejauh
+ mana tanggung jawab intelektual itu.
+ Tadi saya kemukakan ada kewajiban konstitusi ada kewajiban untuk turut
+ serta menciptakan keamanan kewajiban menghargai HAM orang lain lalu sejauh
+ mana pertanggung jawabannya bisa dilakukan pidana jika dia memenuhi rumusan
+ pidana administratif, maupun perdata.
+ Nah dalam menentukan tanggung jawab ini, atau liabilities ini kita berpikirnya
+ seperti apa kurang lebih? Ah, berpikirnya seperti ini Anggaplah semua alam
+ ini sudah harmonis Lalu kemudian dengan kebebasan kita, kita melakukan
+ sesuatu Pada saat kita melakukan sesuatu, ada aksi, ada reaksi Teori physics
+ mengatakan, kalau kita beraksi orang lain melakukan reaksi Yang sering
+ kali dipentaskan oleh media kita adalah adanya reaksi Kadang reaksi bisa
+ terjadi karena aksi Orang melakukan aksi apa, kemudian orang lain melakukan
+ reaksi yang sering kali diperbesar oleh media justru reaksinya Contoh paling
+ mudah adalah masing ingat nonton pertandingan bola dunia yang waktu itu?
+ Ada seorang atlet berkata kepada seorang pemain yang lain, yang maksud
+ saya, bukan atletnya, tapi pemain sepak bola lagi di lapangan, dia berkata
+ sesuatu Lalu yang dikata-katai tadi menyerudukkan kepalanya ke dada pemain
+ itu Yang dilihat adalah reaksinya.
+ Padahal seharusnya tanyakan aksinya sih apa sih? Ada seseorang di tengah
+ jalan, Anda sedang jalan Misalnya Anda seorang wanita, Anda dikatai oleh
+ seseorang itu, “Heh, sundal!” Kalau Anda diam saja dan menangis, maka orang
+ akan menyatakan, “Wah benar Anda adalah wanita sundal.” Tapi kalau ternyata
+ di situ Anda mengatakan membalas, langsung reflek misalnya Anda nampar
+ mulut orang itu, “Anda jangan sembarangan ya, saya wanita baik-baik.” Langsung
+ dikatakan, “Mbak, kalau kata-kata dibalas dengan kata-kata dong.” Kadang-kadang
+ reaksi yang diukur itu belakangan, padahal yang membuat aksi harusnya mempunyai
+ kesadaran lebih dulu.
+ Ini yang agak berpikirnya berbeda dengan mainstream apa yang saya kemukakan.
+ Memang ada ruang kebebasan, tapi pada saat itu juga ada amanat kebebasan.
+ Amanat kebebasan adalah menghargai hak orang lain dan menjaga keharmonisan
+ itu.
+ Jangan dengan kebebasan berekspresi kita malah kita membuat sesuatu yang
+ berdampak jelek buat masyarakat.
+ Hal yang paling mudah lagi yang terkait dengan kejujuran kita, misalnya
+ orang mengatakan, “Yang namanya telanjang itu kan hak setiap orang.” Betul.
+ Hak Anda untuk telanjang mandi di kamar mandi.
+ tapi kalau hak Anda telanjang Anda lakukan di jalan raya dan orang tabrakan,
+ itu mungkin bukan karena dia suka dengan ketelanjangan Anda, tapi karena
+ risih.
+ Jadi public interest-nya adalah menghargai kepentingan lebih besar daripada
+ cuma mengatakan ada kebebasan berekspresi.
+ Jadi dunia freedom itu jangan diidentikkan antara kemerdekaan dengan kebebasan.
+ Kemerdekaan itu adalah ungkapan seseorang lepas dari tekanan, tidak terjajah,
+ tidak diintervensi.
+ Kebebasan tidak dipikirkan sebagai mutlak.
+ Ini yang sering kali kita lihat dalam fenomena masyarakat seolah-olah orang
+ bebas melakukan apa saja lupa menghargai hak asasi orang lain.
+ Atau lupa kewajiban konstitusi dia untuk menjaga negara yang aman masyarakat
+ yang tertib Pemirsa IndonesiaX sekalian semua ketentuan-ketentuan yang
+ telah ada sebelumnya yang memprediksikan hal itu namanya ex-ante liability.
+ Ketentuan-ketentuan yang baru diukur setelah itu namanya post liability.
+ Kalau kita bicara corrective justice maka yang terjadi adalah memulihkan
+ pada keadaan semula.
+ Tapi kalau kita bicara interactive justice atau keadilan interaktif dari
+ setiap orang dalam melakukan positive freedom-nya sejak saat itu pula dia
+ harus mempunyai kewajiban menjalankan kebebasannya secara bertanggung jawab
+ dengan menghargai HAM orang lain.
+ Jadi freedom of speech dibatasi oleh siapa? Privacy Nah ini menarik kali
+ ini kita bahas lebih jauh lagi tentang itu privacy.
+ Apa itu privacy? Privacy kata-kata dasarnya kan private.
+ Semua yang berujung pakai “Y” kalau dalam bahasa Inggris umumnya kalau
+ enggak adverb, adjective.
+ Menjelaskan apa? Ada ranah komunikasi publik ada ruang publik, atau public
+ spare.
+ Ada ruang privat, yaitu ruang dimana saya dilindungi juga oleh konstitusi
+ terhadap kebebasan dan kemerdekaan saya dalam kehidupan saya.
+ Personal life.
+ Nah, tidak semua konstitusi menggunakan istilah privacy.
+ Misalnya Belanda, belum tentu kata-katanya privacy, tapi ruang hidup, personal
+ life.
+ Secara konstitusi, privacy ada di Indonesia.
+ Ada.
+ Jangan dikatakan karena kita masyarakat komunal, kemudian kita menyatakan
+ bahwa Indonesia privacy kurang dihargai.
+ Tidak.
+ Bahkan dalam pengertian hukumnya, masyarakat kita mengatakan berperilakulah
+ yang ajeg bersikap tindak yang ajeg.
+ Artinya hidup itu jangan ganggu orang lain.
+ Hidup itu sesuai norma masyarakat aja.
+ Jangan menyerang orang kalau tidak mau diserang Jangan mencubit orang,
+ jika tidak mau dicubit.
+ Nah dalam ruang komunikasi massa tadi, yang harus kita perhatikan setiap
+ kita adalah memperhatikan norma yang berlaku di masyarakat.
+ Dan jangan paksakan norma masyarakat seperti norma internasional, itu namanya
+ kita berlebihan.
+ Pemirsa IndonesiaX sekalian, privacy dalam pemahaman yang paling rendah
+ adalah right to be let alone.
+ Artinya setiap orang tidak boleh diganggu.
+ Jangan sentuh orang itu.
+ Jangan grecokin dia.
+ Jangan interfere dia.
+ Right to be let alone dalam pemahaman yang paling sederhananya adalah biarkan
+ orang itu merasa aman, secure.
+ Terhadap badannya, terhadap rumahnya, terhadap harta bendanya, terhadap
+ ruang berjalannya dia terhadap komunikasinya.
+ Sehingga kalau di dalam konstitusi yang umum, yang berlaku juga di human
+ right adalah setiap orang harus merasa aman terhadap dirinya, dalam lingkungan
+ kehidupannya.
+ Selain itu apa? Martabat keluarganya.
+ Bayangkan nih, Indonesia ini kan hukum adat itu kan berlaku ya.
+ Ada orang Batak kalau dikatakan bapaknya enggak jelas kan bahaya.
+ Begitu juga misalnya orang Minang, kalau ada ibu, ibunya enggak jelas,
+ kan rusak juga dia.
+ Kan yang satu hukumnya matrilineal Bisa enggak boleh dikubur di kampung
+ kalau dia meninggal.
+ Hati-hati Indonesia mempunyai nilai-nilai yang berbeda dengan Eropa.
+ Individual di Indonesia tidak mutlak tapi bukan juga tidak dihargai.
+ Pemirsa IndonesiaX sekalian penting kita untuk cermati bahwa pada saat
+ kita bicara privacy lingkungan yang paling pertama adalah lingkaran pertama
+ kita terhadap kehidupan kita Orang lain tidak boleh interfere, berarti
+ secure pemahamannya.
+ Setiap orang harus merasa aman, bendanya, hartanya, lingkungan kehidupannya,
+ rumahnya.
+ Jadi privacy in your body, privacy in your home, privacy in your communication,
+ termasuk apa? Surat-menyurat.
+ Yang gampang-gampang saja.
+ Orang memata-matai kita, menyadap pembicaraan kita, itu bagian dari privacy
+ dalam arti sempit.
+ Privacy dalam arti luas segala sesuatu yang di luar sana yang mungkin tidak
+ langsung ke saya tapi berdampak terhadap comfortable saya, dalam kehidupan
+ saya bermasyarakat.
+ Apa? Ada orang jelek-jelekin saya.
+ Atau ada orang memberitahukan personal data saya dengan begitu saja kepada
+ orang lain yang boleh jadi beritikad tidak baik.
+ Konteks pendekatan yang disebut seperti ini adalah hal-hal di luar yang
+ ternyata berdampak kepada comfortable saya.
+ Ini namanya objective approach.
+ Apa itu bentuknya? Personal data pribadi saya diketahui orang lain.
+ Kalau yang tadi, yang dalam konteks di lingkaran kecilnya adalah setiap
+ orang punya ekspektasi untuk privacy.
+ Nah di sini menarik.
+ Kenapa? Ada dalam konteks Common Law, contoh Amerika sama Inggris ya.
+ Dia berpikir begini, kalau yang namanya privacy tanyain si individunya
+ dong.
+ Dia punya pengharapan untuk privacy atau tidak.
+ Expectation to privacy.
+ Artinya gini.
+ Saya ngobrol di telepon, ini kan private communication.
+ Tapi begitu saya ngomong keras-keras, maka ekspektasi saya terhadap privacy
+ in my communication sudah luntur.
+ Kenapa? Karena saya berteriak keras-keras dan saya punya kesadaran bahwa
+ itu akan didengar orang.
+ Sehingga tidak lagi dikatakan ada expectation to privacy.
+ Tapi saya sudah release privacy itu.
+ Sama kalau Anda sudah jadi artis, kehidupan pribadi Anda disyut orang.
+ Maka yang terjadi apa? Expectation privacy Anda sudah berkurang.
+ Tapi kalau Anda berada dalam ruang privacy dan privacy itu tetap Anda jaga
+ maka Anda dikatakan mempunyai expectation to privacy.
+ Nah kalau pendekatan yang lebih luas yang disebut yang namanya penggunaan
+ data pribadi, di situ orang pendekatannya obyektif.
+ Artinya, terhadap data saya ini kamu dulu memperolehnya secara halal atau
+ tidak.
+ Kalau Anda dapat nomor HP orang lain, terus Anda langsung telepon, orangnya
+ terganggu enggak, kalau dia tidak kenal Anda? Apa adabnya? Simpel kan?
+ Telepon dulu temannya, “Ada orang nanya nomor HP Anda nih, dikasih enggak?”
+ Dan orang yang memperoleh data kan menyampaikan, “Saya dapat nomor HP-nya
+ dari temannya.
+ Urusan saya ini, boleh saya ganggu sebentar untuk saya telepon?” Jangan
+ lupa kita punya sila kedua, Kemanusiaan yang Adil dan Beradab.
+ Jangan adil menurut kita terus kita melakukan seenak-enaknya kita maka
+ orang akan mengatakan, kamu tidak adil dan tidak beradab.
+ Perhatikan baik-baik, privacy adalah penghargaan HAM setiap orang terhadap
+ HAM orang lain.
+ Apakah kewajiban atau tidak.
+ Demi tumbuhnya masyarakat yang adil dan tenteram, maka itu kewajiban Anda
+ untuk menghargai yang namanya privacy orang lain.
+ Menarik ternyata, ada pendekatan yang subjective approach yang menandaskan
+ segala sesuatunya diberikan kepada kebebasan orang untuk menentukan apakah
+ dia akan melindungi privacy-nya atau tidak.
+ Atau yang kedua ada lagi yang disebut pendekatan obyektif dimana kewajiban
+ setiap orang menerima data pribadi orang lain memperoleh pribadi orang
+ lain, mengolahnya dan menyampaikan keuntungan dari situ secara sah atau
+ sesuai hukum yang berlaku.
+ Pendekatan ini pendekatan Eropa.
+ Oleh karena itu di dalam konvensi regional ada standar yang namanya untuk
+ perlindungan data pribadi.
+ Mereka yang mengeluarkannya disebut European Community Directive tentang
+ data protection.
+ Sementara kalau di Amerika bicaranya privacy digantungkan kepada ekspektasi
+ setiap orang.
+ Pendekatan pengaturannya jadi agak berbeda.
+ Yang Eropa dalam rangka melindungi bangsanya, terutama personal data tadi
+ maka dipentingkan lembaga negara untuk ngurusin ini.
+ Ada supervisor-nya, ada lembaga negara yang khusus menjaga proteksi terhadap
+ data pribadi.
+ Sementara yang model Common Law mengharapkan bentuknya perlindungan ini
+ serve regulation saja.
+ Atau, masyarakatlah yang mengatur.
+ Karena kalau yang diberikan kewajiban berdasarkan undang-undang ini menjadi
+ cost buat para pelaku usaha.
+ Dua pendekatan ini secara elektronik melahirkan dua kebijakan yang berbeda.
+ Yaitu, yang pertama option in.
+ artinya, dari awalnya kalau yang secara obyektif, “Kamu tuh dah tahu data
+ saya dari mana?” Contoh, saya lagi jalan, ada yang nelepon, terus senyum-senyum.
+ enggak kenal, kan pasti saya nanya.
+ “Siapa ya? Kok Anda nyapa-nyapa saya.” Gitu.
+ Itu kalau Anda option in artinya Anda harus punya hak dulu untuk bisa in
+ dalam komunikasi.
+ Itu option in.
+ Kalau option out, seakan-akan Anda tuh diperkenankan boleh menyapa orang
+ lain, kalau orang lainnya terganggu kali kedua Anda menyapa lagi, itu yang
+ melanggar privacy.
+ vNah pendekatan Common Law posisinya adalah setiap orang yang di jalan
+ raya seakan-akan bebas untuk disapa.
+ Lalu jika Anda tidak setuju, maka Anda berbalik dan menyatakan, “jangan
+ ganggu saya.” Pada saat Anda menyatakan “jangan ganggu saya,” datang lagi
+ upaya yang berikutnya, itu melanggar.
+ Maka secara sistem elektronik dalam sehari-hari kehidupan Anda akan bisa
+ lihat dalam mailbox Anda ada kiriman, dikasih tahu informasinya komersial
+ nih.
+ Begitu dibuka, kalau Anda tidak setuju, unsubscribe.
+ Keluar.
+ Kalau Anda terganggu dengan yang ini, masukkan ke dalam spam box.
+ Tapi kalau yang option in, dari awal sudah ngasih tahu, ketemu situs, kalau
+ Anda tertarik dengan situs ini, kirimkan ke teman Anda.
+ Artinya Anda mengirimkan pesan tadi ke orang lain dan pada saat itu, kemungkina
+n pelanggaran privacy-nya tidak ada Nah masing-masing negara punya kebijakan
+ yang berbeda.
+ Lalu bagaimana dengan Indonesia? Indonesia mempunyai kebijakan option in.
+ Saya tidak menemukan suatu ketentuan yang memberikan peluang yang paradigmanya
+ option out.
+ Buat setiap orang boleh mengganggu orang lain, enggak boleh.
+ Setiap orang lain justru harus menyapa orang lain dengan dasar hak.
+ Hal ini telah diatur di mana? Di Undang-undang ITE ada, dalam PP 82/2012
+ juga sudah ada.
+ Ya, berikutnya coba lihat di pasal 15 dari PP 82, itu mengatur kurang lebih,
+ lebih jauh secara detail.
+\end_layout
+
+\begin_layout Section
+Perlindungan Data Pribadi
+\end_layout
+
+\begin_layout Standard
+Pemirsa IndonesiaX sekalian jadi bicara dinamika telekomunikasi, media,
+ dan informatika bicara dengan hak konstitusi dan sistem peraturan perundang-und
+angan yang ada maka secara tidak langsung, setiap hak konstitusi yang ada
+ dan kewajiban konstitusional Anda harus Anda lakukan dengan baik.
+ Undang-undang apa saja yang terkait? Ya jelas, Undang-undang Hak Asasi
+ Manusia, Undang-undang Pers Undang-undang Penyiaran, Undang-undang Informasi
+ Publik Undang-undang tentang Informasi dan Transaksi Elektronik atau Undang-und
+ang 11 Tahun 2008 Undang-undang tentang Pelayanan Publik, dan undang-undang
+ lain yang terkait dengan keberadaan informasi dan komunikasi itu sendiri.
+ Menarik untuk kita lihat beberapa catatan kita mungkin terhadap pola perilaku
+ masyarakat sekarang ini.
+ Contoh kasus saja, apakah Anda tidak merasa kalau Anda membuka website
+ kemudian Anda ingin keluar, apakah Anda yakin bahwa pada saat Anda keluar,
+ data Anda di website tersebut dihilangkan? Tidak yakin bukan Harusnya itu
+ hak Anda agar jangan sampai keberadaan Anda di-atasnamakan atau diambil
+ nilai ekonomisnya oleh orang itu Jadi pernahkan Anda keluar dari Facebook?
+ Pernahkah Anda merasa Anda mau keluar dari Yahoo? Pernahkah Anda keluar
+ dari Google? Nah kalau Anda keluar, Anda harus pastikan, bilang sama dia
+ bahwa data pribadi Anda harusnya dihilangkan.
+ Lalu, pernahkan Anda pada saat berhubungan dengan suatu website ingin bertransa
+ksi dia nanya data pribadi Anda untuk bertransaksi Pernahkan Anda baca privacy
+ statement-nya? Harusnya kan Anda baca dulu.
+ Kenapa? Anda bertransaksi.
+ Yang harus dipastikan apa? Anda wajib membayar.
+ Tetapi personal data Anda harusnya jangan Anda kasih, tapi ada enggak peluang
+ itu? Dalam perkembangan ke depan sekarang, di Eropa Tengah terjadi yang
+ namanya perubahan dari directive personal data protection menjadi regulasi.
+ Yang selang telah berubah dari directive menjadi regulasi adalah directive
+ tentang electronic signature telah berubah menjadi Regulasi Nomor 910 Tahun
+ 2014 Berubah nama dari e-signature menjadi electronic identification and
+ trust services Electronic identification implikasinya begini kalau Anda
+ datang ke sebuah website, Anda tidak perlu lagi memberikan dia personal
+ data pribadi cukup ngasih tahu nomor saya ada di sini.
+ Ringkas katanya seperti apa sih? Andaikan saya mengurus ke kepolisian tentang
+ SIM, maka begitu saya ditanya, “Edmon, kamu tinggal di mana, di mana, di
+ mana?” Saya akan mengatakan, “Pak, Bapak cukup akses data saya di Kemdagri.
+ Karena di situ saya membuat e-KTP.” Sehingga enggak ada lagi pengisian ulang
+ tentang personal data pribadi yang sebenarnya merupakan harta kita.
+ Kalau besok kita sembarangan ngisi, yang untung itu, yang mendapatkan personal
+ data Hal dari akibat itu, semua pengungkapan yang tidak sesuai dengan perolehan
+ dasarnya dapat dikatakan bertentangan dengan privacy setiap orang Sehingga
+ harusnya dia mengemban kewajiban, lawful obtain, menjamin bahwa perolehan
+ data pribadi Anda dilakukannya dengan sah.
+ Pada saat dia memproses hanya tujuan untuk kepentingan sebagaimana telah
+ disampaikan sebelumnya.
+ Saya menjadi nasabah dari suatu bank, maka bank hanya boleh untuk urusan
+ bank.
+ Begitu juga saya datang menjadi pelanggan operator, operator hanya boleh
+ untuk urusan operator.
+ Di luar itu, enggak boleh.
+ Nah dalam kehidupan sehari-hari kita sekarang kenapa? Spamming.
+ Ada orang entah dari mana, “Selamat siang Pak Edmon, Anda perlu kredit
+ tanda agunan?” Loh, kok dia bisa tahu nomor HP saya? Itu artinya bertentangan
+ dengan berpikirnya, pola pikir tentang perlindungan privacy Di Indonesia
+ memang tengah dibenahi Dan dalam waktu dekat akan ada Rancangan Undang-undang
+ tentang Perlindungan Data Pribadi dibahas oleh Kominfo.
+ Berikutnya terkait dengan itu, apakah Anda merasa bahwa kalau Anda melakukan
+ posting Anda seenak-enaknya Anda pikirkan enggak bahwa waktu Anda mem-posting
+ sesuatu, gambar, entah di Facebook atau di social media network lainnya
+ ada hak orang lain untuk merasa risih dengan gambar itu.
+ Jangan salahkan orang kalau orang ternyata enggak semuanya suka sama kita
+ sehingga komentarnya negatif.
+ Dari awal kita harus bisa melindungi privacy kita.
+ Jangan kita berikan kewajiban orang lain hanya untuk menghargai privacy
+ kita tapi kita enggak ada upaya menjaga privacy kita Jadi kalau dari hidup
+ kita sendiri kita pengen telanjang menyampaikan segala sesuatunya dalam
+ forum komunikasi massa via social network jangan salahkan orang untuk melihat,
+ jadi dia melecehkan kehidupan pribadi kita.
+ Manusia diciptakan oleh Tuhan tidak tulang-belulang Ada daging yang menutupi
+ tulang itu Jangan buat diri kita menjadi tulang di kehidupan orang bermasyaraka
+t Orang masyarakat enggak akan lihat tulang kita, kecuali dagingnya kita
+ buka Kita bukan ubur-ubur, kita manusia yang punya tulang, punya daging
+ Punya harkat dan martabat dalam kehidupan sehari-hari.
+ Jangan karena kita mengatakan ada libertarian, kemudian Anda tidak menghargai
+ konservatif setiap orang.
+ Diskusi kita akan lebih banyak menarik jika Anda terapkan dalam kehidupan
+ sehari-hari.
+ Lihat kasus dimana ada seseorang menuduh rumah sakit dikatakan penipu.
+ Ya.
+ Kemudian disampaikan kepada beberapa orang temannya.
+ Di sini mungkin kita bisa membuat analisis yang berbeda dengan mainstream.
+ Contoh misalnya begini.
+ Kalau kita mengata-ngatai orang lain, kemudian orang lain tidak suka, apakah
+ salah jika dia mengatakan “Kok Anda jadi mengata-ngatai saya?” Itu baru
+ dalam hubungan komunikasi antar-dua orang.
+ Lalu bagaimana kalau saya menyatakan begini.
+ Saya berdiri ke lantai empat, melihat teman saya jalan.
+ Orangnya hitam dan keriting.
+ Saya teriak, “Hei, hitam keriting.” Fakta tidak yang saya sampaikan? Fakta.
+ Tapi kenyataannya waktu saya mengatakan orang itu hitam keriting, atau
+ ditambah pendek misalnya.
+ Bukan fakta yang saya tuju, tapi saya ingin permalukan dia di hadapan orang
+ lain.
+ Oleh karena itu, tindakan yang namanya membuat orang lain malu, mengungkapkan
+ fakta yang memalukan kalau tujuannya semata hanya untuk menghinakan seseorang,
+ itu harus ada dasar untuk orang lain memulihkan haknya Memang yang paling
+ bagus jika orang itu bisa memberikan maaf.
+ Tapi kan undang-undang enggak bisa memaksa orang untuk, “Hei kamu wajib
+ memaafkan dia ya.” Enggak begitu.
+ Artinya pada saat setiap kita membuat aksi yang berdampak pada hak orang
+ lain, maka orang lain itu punya hak untuk memulihkan haknya dia.
+ Dengan sendirinya, kehidupan sehari-hari yang mengatakan jangan jelek-jelekin
+ orang lain jangan fitnah orang lain, maka di internet pun jangan dilakukan.
+ Jangan karena merasa di internet ini bisa pakai alias, bisa pakai nama
+ orang lain, lalu dengan kebebasan kita, kita eksplorasi kelemahan orang
+ lain.
+ Akibatnya terganggulah masyarakat.
+ Selain itu apa? Norma kesusilaan.
+ Anda melihat tadi kalau saya kasih contoh tadi kan tentang pornografi ya,
+ ketelanjangan.
+ Bagaimana dengan informasi-informasi yang mengganggu kesehatan berpikir
+ orang lain.
+ Kalau Anda mendapatkan koleksi video yang pemeggalan, yang sifatnya sadis
+ dan kekerasan.
+ Anda ungkapkan ke orang lain begitu saja, orang lain terganggu.
+ Perilaku-perilaku menyimpang tadi secara tidak langsung membuat masyarakat
+ akan menjadi sakit secara kesusilaan.
+ Di situ kewajiban Anda untuk jangan meneruskannya.
+ Kalau dari awal sudah tahu ini sadis, kemudian Anda bilang, “Jangan tonton
+ ini kalau enggak kuat.” Itu sama saja membuat orang lain jadi memaksa untuk
+ melihat.
+ Penasaran kan? Jadi setiap orang harus bertanggung jawab terhadap posting-annya.
+ Kalau ternyata terhadap postingannya berdampak pada masyarakat, jangan
+ salahkan kalau ada penegakkan hukum pidana.
+ Karena hukum pidana itu sebenarnya adalah tidak hanya melindungi norma
+ individu pribadi, tapi norma masyarakat yang lebih tinggi.
+ Dalam konteks pembahasan telematika dan hak konstitusional maka beberapa
+ isu besar sudah saya sampaikan.
+ Freedom of speech dan privacy, dimana hak Anda dalam kebebasan.
+ Hak Anda untuk tidak diusik orang lain.
+ Kita lanjut dalam materi yang berikutnya.
+\end_layout
+
+\end_body
+\end_document
